@@ -1,6 +1,6 @@
 # Face-recognition-microsoft-engage
-PROJECT 1:- single face recognition by GUI
-libraries install:-
+PROJECT :- face recognition by GUI
+libraries :-
 
 
 1.OpenCV: OpenCV (Open Source Computer Vision Library) is a free software library for computer vision and machine learning. It is designed to serve as a common infrastructure for machine learning and computer vision techniques.
@@ -15,4 +15,4 @@ Haar Cascade: Haar Cascade is a classifier that is used to detect objects from t
 
 Python GUI (tkinter): Tkinter is a simple GUI package that allows us to interface with code in a straightforward manner. It is not necessary for you to comprehend how the code works in order to understand it.
 
-PROJECT 2:- Multiple Face Recognition using dlib
+
