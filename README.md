@@ -16,3 +16,4 @@ Haar Cascade: Haar Cascade is a classifier that is used to detect objects from t
 Python GUI (tkinter): Tkinter is a simple GUI package that allows us to interface with code in a straightforward manner. It is not necessary for you to comprehend how the code works in order to understand it.
 
 
+![Screenshot-2161](https://user-images.githubusercontent.com/95375309/169999956-a41ef790-9649-421d-a29a-2ab8d16c3dab.png)
